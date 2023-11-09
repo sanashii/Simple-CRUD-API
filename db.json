@@ -1,0 +1,17 @@
+[
+  {
+    "id": 2,
+    "title": "Rewrite DSA Notes",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "title": "Buy a new laptop",
+    "completed": true
+  },
+  {
+    "id": 4,
+    "title": "Feed the beagle",
+    "completed": false
+  }
+]
